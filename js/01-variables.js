@@ -57,6 +57,17 @@ console.log(oroTemperaturaVasari);
 const VaikuAmziusPeleduGrupeje = [3, 4, 5, 2, 6];
 console.log(VaikuAmziusPeleduGrupeje);
 
+const KeliautojuGrupesVardai = ['Danute', 'Kastytis', 'Tomas', 'Tadas', 'Zigmas'];
+console.log(KeliautojuGrupesVardai);
+
+const SunuPrieglaudosGyventojei = [ 'Cakas' , 'Brendis' , 'Dolce', 'Straikas', 'Mona'];
+console.log(SunuPrieglaudosGyventojei);
+
+const KaciuPrieglaudosGyventojei = ['micius', 'Macius', 'Murklys', 'Katyte', 'Pazas'];
+console.log(KaciuPrieglaudosGyventojei);
+
+
+
 
 
 
