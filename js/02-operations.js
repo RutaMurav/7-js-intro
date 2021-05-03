@@ -26,11 +26,23 @@ console.log(introduction);
 
 console.log('----------');
 
-const marks = [10, 2, 8 ,4, 5];
+const marks = [1, 2, 3 ,4, 5];
 console.log(marks);
 
-const markSum = marks[0] + marks[1] + marks[2] + marks[3];
+const markSum = marks[0] - marks[1] + marks[2] - marks[3] + marks[4];
 console.log(markSum);
+
+const medis = 'Azuolas';
+const spigliuotis = ' Egle';
+const pavirsius = 'samanos';
+const IvairusMiskas = ' ' + pavirsius + ',' + ' ' + spigliuotis + ',' + ' ' + medis + ',' ;
+
+console.log(medis);
+console.log(spigliuotis);
+console.log(pavirsius);
+console.log(IvairusMiskas);
+
+
 
 
 
