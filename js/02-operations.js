@@ -32,6 +32,8 @@ console.log(marks);
 const markSum = marks[0] - marks[1] + marks[2] - marks[3] + marks[4];
 console.log(markSum);
 
+
+
 const medis = 'Azuolas';
 const spigliuotis = ' Egle';
 const pavirsius = 'samanos';
@@ -41,6 +43,14 @@ console.log(medis);
 console.log(spigliuotis);
 console.log(pavirsius);
 console.log(IvairusMiskas);
+
+console.log('-------------');
+
+const dictioniary = ['pirmas', 'zodis', 'bus', 'ketvirtas'];
+
+const reverseString = distionary[3] + ',' + distionary[2] + ',' + distionary[1] + ',' + distionary[0];
+console.log(reverseString);
+
 
 
 
