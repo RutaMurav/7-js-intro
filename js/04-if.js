@@ -8,7 +8,7 @@ naudoti: >,<,<=,>=,===,!==
 Sablonai
 if() {}
 if() {} else {}
-if() {} else {}.....
+if() {} else if {}.....else if {}
 if() {} else {}....{}
 
 viena = yra priskirimas
