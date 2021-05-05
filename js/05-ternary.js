@@ -19,4 +19,10 @@ const arVyresnis = amzius >= cenzas ? 'vyresnis' : 'ne vyresnis';
 console.log('ar vyresnis:', arVyresnis);
 
 
+console.log('----------');
 
+const ats = 0 < 1 ? 2 < 3 ? 4 : 5 :6;
+console.log(ats);
+
+const boo = true ? false ? true: false : true;
+console.log(boo);
