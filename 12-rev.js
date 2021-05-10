@@ -2,7 +2,7 @@
 Reverser string
 */
 
-const tekstas = 'abcdef';
+const tekstas = 'The greatest victory is that which requires no battle';
 let reverse = '';
 
 

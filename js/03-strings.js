@@ -20,17 +20,9 @@ const kabutes2 = "Viengubos kabutes (') ir dvigubos kabutes (\").";
 console.log(kabutes1);
 console.log(kabutes2);
 
-const imgSrc = './img/logo.png';
-const home = ['./home']
+const name = 'Ruta';
 
-const HTML = `<header>
-<img src="${imgSrc}" alt="Logo">
-<nav>
-    <a href="${home[0]}">${home[1]}</a>
-    <a href="#">Link</a>
-    <a href="#">Link</a>
-    <a href="#">Link</a>
-    </nav>
-
-</header>`;
-console.log(HTML);
+function greet(greetname){
+    return `Hello, ${name} how are you doing today?`;
+  }
+  console.log(greet);

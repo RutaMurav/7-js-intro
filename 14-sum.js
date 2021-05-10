@@ -28,4 +28,16 @@ console.log(kurisDidesnis(7,4));
 console.log(kurisDidesnis(7,4));
 
 
+function numeris(a, b) {
+    return a + b ;
+}
 
+console.log(numeris(7,4));
+console.log(numeris(9,4));
+console.log(numeris(7,7));
+
+function greet(name){
+    return `Hello, ${name}!,  how are you doing today?`;
+  }
+  console.log(greet('Ryan'));
+  console.log(greet('Sam'));
